@@ -70,7 +70,7 @@
 
     peer.on('stream', function(stream){
         var video = document.getElementById('video');
-        video.src = window.URL.createObjectURL(stream);
+        video.srcObject = stream;
         console.log(video.src);
         video.play();
     });
@@ -78,6 +78,7 @@
 .catch(function(err) {
     console.log(err);
 });
+
     </script>
 </body>
 </html>
