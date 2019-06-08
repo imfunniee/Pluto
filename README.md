@@ -7,7 +7,7 @@ idk
 
 ### Usage 
 - Allow camera
-- Copy your id and send it to peer 2 or your friend (idk how) and tell your friend to paste it in "other id" textarea
+- Copy your id and send it to peer 2 or your friend (idk how) and tell your friend to paste it in "other id" textarea and hit connect to genreate their id
 - Tell your friend to give you their id, once you got your firends id paste it in "other id" textarea
 - Hit Connect
 
