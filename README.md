@@ -1,7 +1,9 @@
 # Pluto
-a peer to peer video and text chat 
+a peer to peer video and text chat
 
-idk why i made this but ye i saw a youtube video on internet and thought it would be a nice project lol
+
+### Why?
+idk
 
 ### Usage 
 - Allow camera
