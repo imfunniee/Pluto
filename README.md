@@ -7,9 +7,11 @@ idk
 
 ### Usage 
 - Allow camera
-- copy your id and send it to peer2/your friend
-- Paste your friend's id in "other id" textarea
-- You should see your friend on the right hand side
+- Copy your id and send it to peer 2 or your friend (idk how) and tell your friend to paste it in "other id" textarea
+- Tell your friend to give you their id, once you got your firends id paste it in "other id" textarea
+- Hit Connect
+
+🎉 You should see your friend on the right hand side
 
 #1 in the url makes you peer1/person 1 and the other person/your firend peer2 so ye tell your firend to open up the site without "#1" in url
 
